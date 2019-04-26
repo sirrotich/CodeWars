@@ -10,6 +10,11 @@
 // You can assume that the inputs will always be valid integers between 0-2.
 
 
+////---------------Create a bdd and psudoode---------------//
+
+//=--BDD../                  // PSUDOCODE./-----------------------// CODE-////
+// 1.                           1.                    
+
 function elevator(left,right,call){
     lc = Math.abs(left - call)
     rc = Math.abs(right - call)
