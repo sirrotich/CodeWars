@@ -9,6 +9,12 @@
 
 // Results are automatically rounded to the nearest integer by the test cases.
 
+////---------------Create a bdd and psudoode---------------//
+
+//=--BDD../                  // PSUDOCODE./-----------------------// CODE-////
+// 1.                           1.                                  
+
+
 function dBScale(intensity){
     Beta = intensity * Math.pow(10,12)
     Value = Math.log10(Beta) * 10
