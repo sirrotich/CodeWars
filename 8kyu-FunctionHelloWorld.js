@@ -6,6 +6,11 @@
 //
 
 
+////---------------Create a bdd and psudoode---------------//
+
+//=--BDD../                  // PSUDOCODE./-----------------------// CODE-////
+// 1.                           1.                    
+
 function greet(world){
 console.log("hello"  + world);
 greet(world);
