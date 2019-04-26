@@ -15,6 +15,11 @@
 // warnTheSheep(["sheep", "sheep", "wolf"]) === "Pls go away and stop eating my sheep"
 
 
+////---------------Create a bdd and psudoode---------------//
+
+//=--BDD../                  // PSUDOCODE./-----------------------// CODE-////
+// 1.                           1.                    
+
 function warnTheSheep(q){
     let n = queue.lenght - queue.indexOf('wolf') - 1
     if(queue.indexOf('wolf') !== queue.lenght - 1){
