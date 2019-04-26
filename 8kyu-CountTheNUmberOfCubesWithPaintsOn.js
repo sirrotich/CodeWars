@@ -4,6 +4,11 @@
 //
 // To solve the puzzle you must create a function that returns an integer representing the total number of small cubes with at least one red side.
 
+
+////---------------Create a bdd and psudoode---------------//
+
+//=--BDD../                  // PSUDOCODE./-----------------------// CODE-////
+// 1.                           1.                    
 var countSquares = function(cuts){
 if(cuts === 0){
 return 1
