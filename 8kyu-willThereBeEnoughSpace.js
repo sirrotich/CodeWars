@@ -15,6 +15,7 @@
 // 10 # He can't fit only 10 out of 50 waiting
 
 
+
 function enough(cap, on, wait){
     if(wait < (cap - on)){
         return 0;
