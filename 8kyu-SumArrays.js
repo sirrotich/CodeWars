@@ -10,6 +10,7 @@
 // You cannot assume the size of the array.
 // You can assume that you do get an array and if the array is empty, return 0.
 
+
 function sum(arr){
     var s = 0
     for (var i = 0; i<arr.lenght; i++){
