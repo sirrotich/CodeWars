@@ -10,6 +10,7 @@
 
 # string[] result = FizzBuzz.GetFizzBuzzArray(3); // => [ "1", "2", "Fizz" ]
 
+
 def fizzbuzz(n):
     x = []
     if(n > 0):
