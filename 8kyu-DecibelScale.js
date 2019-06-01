@@ -16,6 +16,7 @@
 
 
 
+
 function dBScale(intensity){
     Beta = intensity * Math.pow(10,12)
     Value = Math.log10(Beta) * 10
