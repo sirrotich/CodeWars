@@ -4,7 +4,6 @@
 
 # Your task is to create a function that returns true if the given number is a Wilson prime.
 
-
 import math
 def am_i_wilson(n):
     if n <= 1:
