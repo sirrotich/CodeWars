@@ -7,6 +7,7 @@
 // Try using "Switch" statements.
 
 
+
 function SwitchItUp(number){
     obj = {
         1:'One',
