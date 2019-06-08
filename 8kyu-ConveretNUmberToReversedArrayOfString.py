@@ -8,6 +8,5 @@
 # Example:
 # 348597 => [7,9,5,8,4,3]
 
-
 def digitize(n):
     return [int(x) for x in str(n)[::-1]]
