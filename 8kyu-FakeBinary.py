@@ -8,3 +8,4 @@ def fake_bin(x):
         elif int(w) < 5:
             b.append('0')
     return "".join(b)
+    
