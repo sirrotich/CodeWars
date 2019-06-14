@@ -3,6 +3,7 @@
 
 
 
+
 def fake_bin(x):
     b = []
     for w in x:
