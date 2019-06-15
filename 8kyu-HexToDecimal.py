@@ -6,6 +6,5 @@
 
 
 
-
 def hex_to_int(s):
     return int(s, 16)
